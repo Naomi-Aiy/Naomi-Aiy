@@ -1,3 +1,7 @@
-<img src="https://github.com/user-attachments/assets/f8f08c7f-00b2-4a95-bbae-bdb7459b8a21" 
-     alt="Front" 
-     width="80%" />
+<p align="center">
+  <img
+     src="https://github.com/user-attachments/assets/8ada5591-f1fd-4cbd-9e41-b0627955564f"
+    alt="Front"
+    width="80%"
+  />
+</p>
