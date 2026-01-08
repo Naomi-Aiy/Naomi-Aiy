@@ -6,25 +6,23 @@
   />
 </p>
 
-⠄･ ⋆ ･ ⠄⠂⋆ ･ ⠄⠂⋆ ･ ⠄⠄･ ⋆ ･ ⠄⠂⋆ ･ ⠄⠂⋆ ･ ⠄
+<p align="center">━━━━⊱⋆⊰━━━━</p>
 
 I’m a **3rd Year Computer Science student** with a **UI/UX Minor**.
 
-I like creating programs and solutions that both **function**, **look beautifully**, and are **intuitive for the user**.
-
-Most of what I enjoy lives at the intersection of **logic, design, and user experience**.
+I like creating programs and solutions that **function**, **look beautiful**, and are **intuitive for the user**.
 
 ⠄･ ⋆ ･ ⠄⠂⋆ ･ ⠄⠂⋆ ･ ⠄⠄･ ⋆ ･ ⠄⠂⋆ ･ ⠄⠂⋆ ･ ⠄
 
-### Some things I’ve built
+### Some things I’ve built | (ง'-')ง
 
 - **Portfolio** — a home for my work and experiments  
 - **Web Dev Job Scraper** — automating the boring part of job hunting  
-- **Guess That Engine** — a small project just for fun (and curiosity)
+- **Guess That Engine** — can you identify the engine behind a game from its screenshot?
 
 ⠄･ ⋆ ･ ⠄⠂⋆ ･ ⠄⠂⋆ ･ ⠄⠄･ ⋆ ･ ⠄⠂⋆ ･ ⠄⠂⋆ ･ ⠄
 
-### Currently working on
+### Currently working on | (-⊙⩊⊙)𝇌 ✎
 
 **Seat Watcher**  
 A tool to help students get into courses that don’t have waitlists.  
